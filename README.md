@@ -6,5 +6,7 @@ Scirra Construct 2 and Construct 3 are 2D game engines which allow to create sim
 
 # Examples
 ## Football 
-The first game (football) is a simple football simulation for two players.
-The second game (caterpillar) is a physics-based platformer. 
+A simple football game for two players. Click [here](https://mariusrubo.github.io/football/) to play it. 
+
+## Caterpillar
+A physics-based platformer. 
