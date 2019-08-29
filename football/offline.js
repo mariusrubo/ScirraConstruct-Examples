@@ -1,0 +1,30 @@
+﻿{
+	"version": 1567082976,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/spielergelb5-sheet0.png",
+		"images/torgelb-sheet0.png",
+		"images/torblau-sheet0.png",
+		"images/spielerblau5-sheet0.png",
+		"images/boden-sheet0.png",
+		"images/sieggelb-sheet0.png",
+		"images/siegblau-sheet0.png",
+		"images/ball-sheet0.png",
+		"images/spielergelb-sheet0.png",
+		"images/spielerblau-sheet0.png",
+		"images/marker-sheet0.png",
+		"images/footballfield-sheet0.png",
+		"images/esdf-sheet0.png",
+		"images/pfeiltasten-sheet0.png",
+		"images/pfeil-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
