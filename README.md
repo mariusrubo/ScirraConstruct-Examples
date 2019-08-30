@@ -26,4 +26,6 @@ The game tries to teach basic concepts from physics in a fun way. Players move a
 
 Note that the entire text in this game is in German. I thank the "MFG Stiftung Baden-Württemberg" for their support in developing this project. Feel free to download it (PhysicsLearningGame.capx in this repo), but note that it requires a paid version of Construct 2 or Construct 3. 
 
+Note: This game furthermore needs and update as Chapter 4 does not start to run under Java 8. 
+
 <img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/physics_learning_game_screenshots.jpg" width="724" height="180">
