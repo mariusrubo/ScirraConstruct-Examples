@@ -18,3 +18,7 @@ A physics-based platformer. Click [here](https://mariusrubo.github.io/Caterpilla
 This project is more complex and can only be run in paid versions of Construct 2 or Construct 3. Please contact me personally if you would like to use this project. 
 
 <img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/ms_caterpillar_screenshot.jpg" width="320" height="180">
+
+## Physics Learning Game
+
+<img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/physics_learning_game_screenshots.jpg" width="724" height="180">
