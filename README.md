@@ -20,5 +20,10 @@ This project is more complex and can only be run in paid versions of Construct 2
 <img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/ms_caterpillar_screenshot.jpg" width="320" height="180">
 
 ## Physics Learning Game
+A learning game for basic Newtonian Mechanics and Kinematics. Click [here](https://mariusrubo.github.io/PhysicsLearningGame/) to play it. 
+
+The game tries to teach basic concepts from physics in a fun way. Players move around in interactive 2D environments where abstract concepts are continously displayed (e.g. as arrows). Players are prompted to investigate certain relations between these concepts as they play, and answer multiple-choice questions to check on their progress.
+
+Note that the entire text in this game is in German. I thank the "MFG Stiftung Baden-Württemberg" for their support in developing this project. Feel free to download it (PhysicsLearningGame.capx in this repo). 
 
 <img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/physics_learning_game_screenshots.jpg" width="724" height="180">
