@@ -2,7 +2,7 @@
 Some example games made with the Scirra Construct 2 game engine
 
 # Background
-Scirra Construct 2 and Construct 3 are 2D game engines which allow to create simple games that run in a browser. The engines are rather beginner-friendly as they use visual scripting and only support a relatively modest range of functions compared to Unity and Unreal, but do allow to create some interesting applications. Here I present some simple games I made with Construct 2 (it should be possible to also open the projects in Construct 3, which is backwards-compatible). 
+Scirra Construct 2 and Construct 3 are 2D game engines which allow to create simple games that run in a browser. The engines are rather beginner-friendly as they use visual scripting and only support a relatively modest range of functions compared to Unity and Unreal, but do allow to create some interesting applications. Here I present games I made with Construct 2 (it should be possible to also open the projects in Construct 3, which is backwards-compatible). 
 
 # Examples
 ## Football 
