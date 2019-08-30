@@ -14,3 +14,7 @@ The entire project is saved in the file football.capx in this repo. Its logic on
 
 ## Ms. Caterpillar
 A physics-based platformer. Click [here](https://mariusrubo.github.io/Caterpillar/) to play it. 
+
+This project is more complex and can only be run in paid versions of Construct 2 or Construct 3. Please contact me personally if you would like to use this project. 
+
+<img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/ms_caterpillar_screenshot.jpg" width="320" height="180">
