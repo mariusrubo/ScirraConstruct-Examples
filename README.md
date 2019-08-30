@@ -7,7 +7,9 @@ Scirra Construct 2 and Construct 3 are 2D game engines which allow to create sim
 # Examples
 ## Football 
 A simple football game for two players. Click [here](https://mariusrubo.github.io/football/) to play it. 
-The entire project is saved in the file football.capx in this repo. Its logic only consists of 33 events, so you can open the project even in the free version of Construct 2  and Construct 3 (100 events limit). 
+The entire project is saved in the file football.capx in this repo. Its logic only consists of 33 events, so you can open the project even in the free version of Construct 2 and Construct 3 (100 events limit). 
+
+![alt tag](https://github.com/mariusrubo/Unity-Humanoid-TransportObjects/blob/master/transport.jpg)
 
 ## Ms. Caterpillar
 A physics-based platformer. Click [here](https://mariusrubo.github.io/Caterpillar/) to play it. 
