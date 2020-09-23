@@ -2,7 +2,7 @@
 Some example games made with the Scirra Construct 2 game engine
 
 # Background
-Scirra Construct 2 and Construct 3 are 2D game engines which allow to create simple games that run in a browser. The engines are rather beginner-friendly as they use visual scripting and only support a relatively modest range of functions compared to Unity and Unreal, but do allow to create some interesting applications. Here I present games I made with Construct 2 (it should be possible to also open the projects in Construct 3, which is backwards-compatible). 
+Scirra Construct 2 and Construct 3 are game engines which allow to create 2D games that run in a web browser. These engines support a relatively modest range of functions compared to Unity and Unreal, but allow for quicker prototyping. Here I present games I made with Construct 2 (it should be possible to also open the projects in Construct 3, which is backwards-compatible). 
 
 # Examples
 ## Football 
@@ -15,8 +15,7 @@ The entire project is saved in the file football.capx in this repo. Its logic on
 ## Ms. Caterpillar
 A physics-based platformer. Click [here](https://mariusrubo.github.io/Caterpillar/) to play it. 
 
-This project is more complex and can only be run in paid versions of Construct 2 or Construct 3. Please contact me if you would like to use this project. 
-
+This project is more complex as it models the forces within a system of springs (the caterpillar's body) and their interaction with the forces inside a trampoline. 
 <img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/ms_caterpillar_screenshot.jpg" width="320" height="180">
 
 ## Physics Learning Game
