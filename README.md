@@ -15,7 +15,8 @@ The entire project is saved in the file football.capx in this repo. Its logic on
 ## Ms. Caterpillar
 A physics-based platformer. Click [here](https://mariusrubo.github.io/Caterpillar/) to play it. 
 
-This project is more complex as it models the forces within a system of springs (the caterpillar's body) and their interaction with the forces inside a trampoline. 
+This project is more complex. It models the forces within a system of springs (the caterpillar's body) and their interaction with the forces inside a trampoline, and uses a simple form of movement prediction (to allow the monkey to smoothly catch the caterpillar). 
+
 <img src="https://github.com/mariusrubo/ScirraConstruct-Examples/blob/master/ms_caterpillar_screenshot.jpg" width="320" height="180">
 
 ## Physics Learning Game
