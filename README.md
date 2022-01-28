@@ -23,7 +23,7 @@ This project is more complex. It models the forces within a system of springs (t
 ## Physics Learning Game
 A learning game for basic Newtonian Mechanics and Kinematics. Click [here](https://mariusrubo.github.io/PhysicsLearningGame/) to play it. 
 
-The game tries to show basic concepts in the field physics in a fun way. Players move around in interactive 2D environments where abstract concepts are continously displayed (e.g. as arrows). Players are prompted to investigate certain relations between these concepts as they play, and to then answer multiple-choice questions to check on their progress.
+The game shows basic concepts in mechanics and kinematics. Players move in interactive 2D environments where abstract concepts are continously displayed (e.g. as arrows). Players are prompted to investigate certain relations between these concepts as they play, and to then answer multiple-choice questions to check on their progress.
 
 Note that the entire text in this game is in German. I thank the *MFG Stiftung Baden-Württemberg* who funded this project in 2012. 
 Note: Chapter 4 currently does not start under Java 8.
